@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "com.macacagames.macacaapi": "https://github.com/MacacaGames/MacacaAPI.git",
+    }
+}
