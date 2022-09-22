@@ -1,0 +1,5 @@
+<provider
+    android:name="com.CloudMacaca.AndroidNative.UnityShareContentProvider"
+    android:authorities="Maliek News"
+    android:exported="false"
+    android:grantUriPermissions="true" />
